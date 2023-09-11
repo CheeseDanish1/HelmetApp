@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976564827898",
+    "project_id": "helmet-7c08d",
+    "storage_bucket": "helmet-7c08d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976564827898:android:b29f094e4994bbe6efbb43",
+        "android_client_info": {
+          "package_name": "com.sampearlman.expoblesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976564827898-oacgtg6ipt5tnkcqushlbmfkiqbrta30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJBRa23zLxipjtkgHHfTjGZAQs8UupmZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976564827898-oacgtg6ipt5tnkcqushlbmfkiqbrta30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
